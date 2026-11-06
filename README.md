@@ -59,7 +59,7 @@ Rules and boundaries are in [SKILL.md](./SKILL.md); grades in [DETECT.md](./DETE
 Ask an AI assistant that supports Agent Skills to install **less-ai-tone-en** from this repository, or use:
 
 ```bash
-npx skills add OWNER/less-ai-tone-en
+npx skills add Rambo-Li/less-ai-tone-en
 ```
 
 Or copy the folder into your skills directory (`~/.claude/skills/`, `~/.codex/skills/`, `~/.agents/skills/` …). Needs Python 3, standard library only.

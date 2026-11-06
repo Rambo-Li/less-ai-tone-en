@@ -59,7 +59,7 @@
 让支持 Agent Skills 的 AI 助手从本仓库安装 **less-ai-tone-en**，或运行：
 
 ```bash
-npx skills add OWNER/less-ai-tone-en
+npx skills add Rambo-Li/less-ai-tone-en
 ```
 
 也可以直接把文件夹复制到 skills 目录（`~/.claude/skills/`、`~/.codex/skills/`、`~/.agents/skills/` 等）。需要 Python 3，只用标准库。
