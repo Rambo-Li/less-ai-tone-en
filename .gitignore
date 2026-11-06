@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+# Copyrighted calibration corpus and derived texts: never commit
+calibration/human/
+calibration/outlines/
+calibration/ai-*/
+calibration/tmp*/

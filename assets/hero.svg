@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" font-family="Georgia, 'Times New Roman', serif">
+  <rect width="1200" height="420" fill="#f6f3ec"/>
+  <text x="60" y="92" font-size="46" fill="#1d1b18" font-weight="bold">Less AI Tone (English)</text>
+  <text x="60" y="134" font-size="22" fill="#5a554c" font-family="Helvetica, Arial, sans-serif">Report first. Rewrite only after you reply. Keep every fact.</text>
+  <line x1="60" y1="168" x2="1140" y2="168" stroke="#d8d2c4" stroke-width="2"/>
+  <g font-family="Helvetica, Arial, sans-serif">
+    <text x="60" y="250" font-size="64" fill="#1d1b18" font-weight="bold">43</text>
+    <text x="60" y="284" font-size="18" fill="#5a554c">matched pairs:</text>
+    <text x="60" y="308" font-size="18" fill="#5a554c">pre-2022 human essays</text>
+    <text x="60" y="332" font-size="18" fill="#5a554c">vs Claude, same facts</text>
+    <text x="330" y="250" font-size="64" fill="#1d1b18" font-weight="bold">4.2×</text>
+    <text x="330" y="284" font-size="18" fill="#5a554c">more headings in</text>
+    <text x="330" y="308" font-size="18" fill="#5a554c">Claude's posts</text>
+    <text x="330" y="332" font-size="18" fill="#5a554c">(all 43 pairs)</text>
+    <text x="600" y="250" font-size="64" fill="#9a3b2a" font-weight="bold">40×</text>
+    <text x="600" y="284" font-size="18" fill="#5a554c">more em dashes in</text>
+    <text x="600" y="308" font-size="18" fill="#5a554c">the HUMAN essays</text>
+    <text x="600" y="332" font-size="18" fill="#5a554c">(folk rule reversed)</text>
+    <text x="870" y="250" font-size="64" fill="#1d1b18" font-weight="bold">15</text>
+    <text x="870" y="284" font-size="18" fill="#5a554c">rewrite rules, each</text>
+    <text x="870" y="308" font-size="18" fill="#5a554c">tagged with what the</text>
+    <text x="870" y="332" font-size="18" fill="#5a554c">evidence actually says</text>
+  </g>
+  <text x="60" y="390" font-size="15" fill="#8a8476" font-family="Helvetica, Arial, sans-serif">English adaptation of lieflat-less-ai-tone by shiujan · CC BY-NC 4.0</text>
+</svg>

@@ -1,0 +1,142 @@
+{
+ "n_human": 43,
+ "n_ai": 43,
+ "paired": true,
+ "metrics": {
+  "R1": {
+   "human": 0.099,
+   "ai": 0.275,
+   "verdict": "AI higher"
+  },
+  "R2": {
+   "human": 0.02,
+   "ai": 0.0,
+   "verdict": "too rare"
+  },
+  "R3": {
+   "human": 0.0,
+   "ai": 0.0,
+   "verdict": "too rare"
+  },
+  "R4": {
+   "human": 0.061,
+   "ai": 0.0,
+   "verdict": "too rare"
+  },
+  "R5": {
+   "human": 0.084,
+   "ai": 0.046,
+   "verdict": "too rare"
+  },
+  "R6": {
+   "human": 0.296,
+   "ai": 0.107,
+   "verdict": "no diff"
+  },
+  "R7": {
+   "human": 0.0,
+   "ai": 0.0,
+   "verdict": "too rare"
+  },
+  "R8": {
+   "human": 0.0,
+   "ai": 0.0,
+   "verdict": "too rare"
+  },
+  "R9": {
+   "human": 1.384,
+   "ai": 1.564,
+   "verdict": "no diff"
+  },
+  "R10": {
+   "human": 0.0,
+   "ai": 0.022,
+   "verdict": "too rare"
+  },
+  "R11": {
+   "human": 0.0,
+   "ai": 0.0,
+   "verdict": "too rare"
+  },
+  "X1": {
+   "human": 0.02,
+   "ai": 0.628,
+   "verdict": "too rare"
+  },
+  "X2": {
+   "human": 0.169,
+   "ai": 0.211,
+   "verdict": "no diff"
+  },
+  "X3": {
+   "human": 4.247,
+   "ai": 2.767,
+   "verdict": "AI lower"
+  },
+  "X4": {
+   "human": 3.744,
+   "ai": 2.599,
+   "verdict": "no diff"
+  },
+  "Em dash": {
+   "human": 2.623,
+   "ai": 0.065,
+   "verdict": "AI lower"
+  },
+  "Semicolon": {
+   "human": 0.586,
+   "ai": 0.682,
+   "verdict": "no diff"
+  },
+  "Bold in prose": {
+   "human": 0.0,
+   "ai": 0.592,
+   "verdict": "AI higher"
+  },
+  "Emoji": {
+   "human": 0.117,
+   "ai": 0.0,
+   "verdict": "too rare"
+  },
+  "sentence_len_cv": {
+   "human": 0.592,
+   "ai": 0.553,
+   "verdict": "AI lower"
+  },
+  "section_len_cv": {
+   "human": 0.626,
+   "ai": 0.376,
+   "verdict": "AI lower"
+  },
+  "headings_per_1k": {
+   "human": 1.612,
+   "ai": 6.822,
+   "verdict": "AI higher"
+  },
+  "list_line_share": {
+   "human": 0.147,
+   "ai": 0.102,
+   "verdict": "AI lower"
+  },
+  "iso2_per_100p": {
+   "human": 2.313,
+   "ai": 4.724,
+   "verdict": "no diff"
+  },
+  "iso3_per_100p": {
+   "human": 0.0,
+   "ai": 0.303,
+   "verdict": "too rare"
+  },
+  "mtld": {
+   "human": 98.023,
+   "ai": 104.163,
+   "verdict": "no diff"
+  },
+  "nominalizations_per_1k": {
+   "human": 17.412,
+   "ai": 15.877,
+   "verdict": "no diff"
+  }
+ }
+}
